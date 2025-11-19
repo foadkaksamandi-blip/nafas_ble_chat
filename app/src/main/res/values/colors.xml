@@ -1,14 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- رنگ‌های اصلی برند نفس -->
-    <color name="colorPrimary">#00C853</color>       <!-- سبز اصلی -->
-    <color name="colorPrimaryDark">#009624</color>   <!-- سبز تیره -->
-    <color name="colorAccent">#69F0AE</color>        <!-- سبز روشن -->
-
-    <!-- رنگ‌های پس‌زمینه تیره / مشکی برای تم گرافیکی -->
-    <color name="background_dark">#000000</color>
-    <color name="background_chat">#121212</color>
-
-    <!-- رنگ متن‌ها -->
-    <color name="text_primary">#FFFFFF</color>
-    <color name="text_secondary">#B0B0B0</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
 </resources>
