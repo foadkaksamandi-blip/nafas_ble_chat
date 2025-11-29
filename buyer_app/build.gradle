@@ -1,0 +1,25 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.nafas.buyer'
+    compileSdkVersion 33
+
+    defaultConfig {
+        applicationId "com.nafas.buyer"
+        minSdkVersion 23
+        targetSdkVersion 33
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+}
